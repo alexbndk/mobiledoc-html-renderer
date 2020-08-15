@@ -11,7 +11,7 @@ The implementation is based closely on https://github.com/bustlelabs/mobiledoc-h
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'mobiledoc_html_renderer'
+gem 'mobiledoc-html-renderer'
 ```
 
 And then execute:
@@ -20,7 +20,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install mobiledoc_html_renderer
+    $ gem install mobiledoc-html-renderer
 
 ## Usage
 
